@@ -3,8 +3,8 @@
 DEDL-Kcr is an explainable method for identifying lysine crotonylation (Kcr) sites based on dynamic ensemble deep learning framework.
 
 # Dependencies<hr>
-DEDL-Kcr requires python=3.9
-Below are the core Python packages required by DEDL-Kcr:<br>
+DEDL-Kcr requires python=3.9.
+Below are the core Python packages required for DEDL-Kcr:<br>
 <ul>
     <li>tensorflow(2.12.0)</li>
     <li>scikit-learn(1.3.0)</li>
